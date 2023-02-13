@@ -1,0 +1,166 @@
+body{
+    margin: none;
+    font-family: Tahoma;
+}
+
+.secao1{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    background-color: #afddfb;
+}
+
+.logo{
+    width: 150px;
+}
+
+.ps1{
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.link{
+    font-size: 18px;
+    color: #1d1d1d;
+    border-style: solid bottom 2px #1d1d1d;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.secao2{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    margin-top: 50px;
+    padding-top: none;
+}
+
+.secao3{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+h1{
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+.sub{
+    color: #1c81c0;
+    margin-top: none;
+    font-weight: none;
+}
+
+.assinatura{
+    width: 450px;
+}
+
+.texto-azul{
+    color: #1d80c1;
+    font-weight: bold;
+}
+
+.secao4{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    background-color: #1d80c1;
+}
+
+.p4{
+    color: #ffffff;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+}
+
+.texto-amarelo{
+    color: #fff81b;
+    font-weight: bold;
+
+}
+
+.li4{
+    margin-top: 40px;
+    margin-left: auto;
+    margin-bottom: 40px;
+    margin-right: auto;
+    width: 135px;
+    color: #ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 20px;
+}
+
+.subb{
+    color: #ffffff;
+
+}
+
+.secao5{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    
+}
+
+.img5{
+    width: 450px;
+
+}
+
+.secao6{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    background-color: #1c81c1;
+}
+
+.p6{
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.li6{
+    margin-top: 40px;
+    list-style: none;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    width: 210px;
+    font-size: 18px;
+}
+
+.il6{
+    background-color: #ffffff;
+    color: #1d80c1;
+    padding: 5px 2px;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+.mapa{
+    width: 700px;
+    height: 300px;
+}
+
+p{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: justify;
+    width: 980px;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+span{
+    font-weight: bold;
+}
